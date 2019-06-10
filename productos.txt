@@ -1,0 +1,15 @@
+1     CocaCola    1.00
+2     BigCola     0.50
+3     Manicho     0.60
+4     Mani        0.50
+5     Agua        0.35
+6     Te          0.75
+7     Almendras   0.25
+8     Nueces      0.25
+9     Arandanos   0.25  
+10    Cafe        2.00
+11    Agua        0.35
+12    Te          0.75
+13    Almendras   0.25
+14    Nueces      0.25
+15    Arandanos   0.25  
